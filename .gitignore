@@ -1,0 +1,7 @@
+ios/Plugin/build
+ios/Plugin/Pods
+ios/Plugin/public
+ios/Plugin/Podfile.lock
+xcuserdata
+node_modules
+package-lock.json

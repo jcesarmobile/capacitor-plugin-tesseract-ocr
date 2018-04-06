@@ -9,5 +9,5 @@ Pod::Spec.new do |s|
   s.source_files = 'Plugin/Plugin/**/*.{swift,h,m,c,cc,mm,cpp}'
   s.ios.deployment_target  = '10.0'
   s.dependency 'Capacitor'
-  s.dependency 'TesseractOCRiOS', '~> 4.0'
+  s.dependency 'SwiftyTesseract', '~> 1.0'
 end
