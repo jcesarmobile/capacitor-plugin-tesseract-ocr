@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name = 'CapacitorPluginTesseractOCR'
+  s.name = 'CapacitorPluginTesseractOcr'
   s.version = '0.0.1'
   s.summary = 'A capacitor plugin for using Tesseract OCR'
   s.license = 'MIT'
