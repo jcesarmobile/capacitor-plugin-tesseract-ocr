@@ -13,4 +13,5 @@ target 'PluginTests' do
   use_frameworks!
 
   pod 'Capacitor'
+  pod 'TesseractOCRiOS', '~> 4.0'
 end
