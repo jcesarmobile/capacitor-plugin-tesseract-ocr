@@ -1,6 +1,6 @@
 {
   "name": "capacitor-plugin-tesseract-ocr",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A capacitor plugin for using Tesseract OCR",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
